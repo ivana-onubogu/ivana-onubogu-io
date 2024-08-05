@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(28,110,164);
+    color: white;
+    font-family: "Audiowide", sans-serif;
+}
+h1{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+h2{
+    font-size: 20px;
+    font-weight: bold;
+}
+.selfie {
+    align-content: center;
+}
+#About {
+    color: white;
+    font-size: 18px;
+    padding-bottom: 10%;
+    padding-top: 5%;
+
+}
+#Experience {
+    color: white;
+    font-size: 18px;
+    padding-bottom: 10%;
+}
+#Connect {
+    color: white;
+    font-size: 18px;
+    padding-bottom: 10%;
+    text-align: center;
+}
