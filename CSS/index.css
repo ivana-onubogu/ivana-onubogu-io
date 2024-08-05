@@ -19,7 +19,7 @@ h2{
 .selfie img {
     align-items: center;
     /*max-width: 100px;*/
-    width: 50%;
+    width: 25%;
     height: auto;
 }
 #About {
@@ -46,4 +46,7 @@ h2{
 .connect img{
     width: 25px;
     height: 25px;
+}
+.flex-container{
+    display: flex;
 }
