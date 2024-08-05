@@ -14,8 +14,8 @@ h2{
 }
 .selfie {
     align-content: center;
-    max-height: 50%;
-    max-width: 50%;
+    max-height: 100px;
+    max-width: 100px;
 }
 #About {
     color: white;
@@ -36,6 +36,6 @@ h2{
     text-align: center;
 }
 img{
-    max-width: 100%;
-    height: audio;
+    max-width: 25px;
+    height: 25px;
 }
