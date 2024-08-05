@@ -16,7 +16,7 @@ h2{
     font-size: 20px;
     font-weight: bold;
 }
-.selfie {
+.selfie img {
     align-items: center;
     /*max-width: 100px;*/
     width: 100%;
@@ -44,6 +44,6 @@ h2{
     align-items: center;
 }
 .connect img{
-    max-width: 25px;
+    width: 25px;
     height: 25px;
 }
